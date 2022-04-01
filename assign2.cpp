@@ -2,7 +2,6 @@
 #include <fstream>
 
 using namespace std;
-//Muhammad Khan, Assignment 2, CS 302 1001
 //this function is a recursive boolean function that will 
 //check to see if a certain number can be used on the spot
 //in the sudoku board. If not, there will be a loop that will keep iterating from 
